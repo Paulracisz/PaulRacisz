@@ -12,40 +12,25 @@
 <!-- Programming Language -->
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="25">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=Java&logoColor=white" height="25">
 <br>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" height="25">
-
-
 <br>
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" height="25">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25">
 <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white" height="25">
+ <br>
 <img src="https://img.shields.io/badge/Angular-cc0000?style=for-the-badge&logo=angular&logoColor=white" height="25">
-
-
-
-
-
-
-
-
-
-
-
-<!-- Framework -->
-
-
-<!-- Database -->
-
-
-<!-- Software -->
-
+<img src="https://img.shields.io/badge/Android-Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" height="25">
+ <br>
+<img src="https://img.shields.io/badge/Xcode-147EFB?style=for-the-badge&logo=xcode&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" height="25">
 
 </p>
 
-### ⭐ Statistics and Languages
+### ⭐ Statistics
 
  <!-- <p align="center"> 
     <img src="https://github-readme-stats.vercel.app/api?username=paulrfirefly&count_private=true&show_icons=true&theme=buefy" alt="paulrfirefly" width="420"/> 
@@ -79,14 +64,7 @@ For ICON Idea
 
 -->
 
-<!-- ![Visitor Count](https://profile-counter.glitch.me/devded/count.svg) -->
 
-<!--
-<p align="center">
- <img src="https://github-profile-trophy.vercel.app/?username=devded&theme=flat&row=1" alt="devded" />
-</p>
-
--->
 
 
 <!--
