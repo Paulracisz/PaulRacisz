@@ -7,6 +7,14 @@
 
 - 📫 You can reach me at **paulieracisz@gmail.com**
 
+
+
+
+
+### :gift: Projects
+- <a href="https://github.com/Paulracisz/infinitystones" target="_blank">Infinity Stone Themed Time Counter</a>
+- <a href="https://paulracisz.github.io/sales-table/" target="_blank">Dynamically Sorted Sales Table</a>
+- <a href="https://paulracisz.gitlab.io/connect-four/" target="_blank">Connect-4 Style Web Game</a>
 ### 💻 My Tech Stack
 
 <p  align="center">
