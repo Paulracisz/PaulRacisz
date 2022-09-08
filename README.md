@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Paul Racisz</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paulracisz" alt="paulracisz" /> </p>
 
-- I am a dedicated software engineer living in Indiana <img src="https://findicons.com/files/icons/663/50_states/128/indiana_flag.png" height="25">
+- I am a dedicated American Software Engineer living in Indiana <img src="https://findicons.com/files/icons/663/50_states/128/indiana_flag.png" height="25">
 
 - 🌱 I’m currently learning **Java and Kotlin**
 
