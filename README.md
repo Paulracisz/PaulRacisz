@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Paul Racisz</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=paulracisz" alt="paulracisz" /> </p>
 
-- I am a dedicated American Software Engineer living in Indiana <img src="https://findicons.com/files/icons/663/50_states/128/indiana_flag.png" height="25">
+Hi there, I'm a front-end web developer based in Indiana with a passion for creating engaging and intuitive user experiences. I have extensive experience in JavaScript, HTML, and CSS, and I'm constantly looking for new and exciting ways to push the boundaries of what's possible on the web.
 
-- 🌱 I’m currently learning **Java and Kotlin**
+Currently, I'm expanding my skill set by learning Java, which I'm finding to be an incredibly powerful and versatile language. I'm always looking for new challenges to help me grow as a developer, and I'm excited to see where this new knowledge takes me.
 
-- 📫 You can reach me at **paulieracisz@gmail.com**
+In my day job at Firefly Integrations in the RV industry, I focus on building custom software solutions that streamline operations and improve efficiency. I work closely with our team of designers and developers to create software that is both functional and visually appealing, and I pride myself on my ability to collaborate effectively with others.
+
+When I'm not coding, you can usually find me exploring the great outdoors or catching up on the latest tech news. If you're interested in collaborating on a project or just want to say hello, feel free to drop me a line!
 
 
 
