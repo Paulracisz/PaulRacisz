@@ -8,6 +8,7 @@ Currently, I'm expanding my skill set by learning Java, which I'm finding to be 
 In my day job at Firefly Integrations in the RV industry, I focus on building custom software solutions that streamline operations and improve efficiency. I work closely with our team of designers and developers to create software that is both functional and visually appealing, and I pride myself on my ability to collaborate effectively with others.
 
 When I'm not coding, you can usually find me exploring the great outdoors or catching up on the latest tech news. If you're interested in collaborating on a project or just want to say hello, feel free to drop me a line!
+Contact me at: paulieracisz@gmail.com
 
 
 
