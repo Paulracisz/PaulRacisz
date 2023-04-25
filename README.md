@@ -32,7 +32,7 @@ Contact me at: paulieracisz@gmail.com
 <br>
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" height="25">
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25">
-<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAMAAAAoLQ9TAAABL1BMVEUAAAAzmTNJkiRJkklJtiQ9nj1Vnj07kztMl0I9lzRPnkFFlj1JlkE9mTdJkkJIoj1RnkRWp0Q+jT1MmEM/ljg+kzlaqkVBkTxNmUM+kTpZp0ZKmz9LmEJEkz1WpERPnURSo0E/iT8/iz5SoERImD5KlENluUo+ljc/iT49oTI+kTo+lDk+lTg+lTk+ljg+mDc+mzY+nzM/hz8/iD4/iT4/ij0/ij4/iz0/jD1Ah0BAiEBAiUBCjj5DjD9DjEBDmDxEjkFFj0BGkUFHk0BIkkFIlEJKlkJLl0JMl0JMl0NMmEJNmUNNmkJOmkNOm0NPnEJPnENQnkNRnkRRn0RSn0RSoERVqENWpURWpUVYp0ZaqkZarkZerkder0ditEhitElktklluElmukpnu0povkpuw5jAAAAAKXRSTlMABQcHBxUVGhs2Nz8/cHBxcYiPkJLAwNDQ3d3o6Pf3+fr8/Pz9/f3+/jLcaPUAAACySURBVHjaRciDegNBGIXhfzq1bbuNB7Gd3dj2/d/CGt+jc17QO31+OQa7/fvJsCc+Hhp3+3o+nQz7dbF2u6v+s+/VQoV2odL8uABAn2sDhGK19YUA/48MEHNCOYIBOxJLA7L5FFXA7eqakPQzDBteT3RmQIxzBXxO0jAgzgIYNv8YCY8NIEEM6IcQUjLhFwFcvhMSGujwdg5KW1eUpFXI3OyA3t4d6fTbDwdgd/T0eqIvGaGaMJh/THA8AAAAAElFTkSuQmCC" height="25">
  <br>
 <img src="https://img.shields.io/badge/Angular-cc0000?style=for-the-badge&logo=angular&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/Android-Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" height="25">
