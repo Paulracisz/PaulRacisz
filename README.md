@@ -25,7 +25,7 @@ Contact me at: paulieracisz@gmail.com
 <!-- Programming Language -->
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="25">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=https://cdn-icons-png.flaticon.com/512/152/152760.png:image/png&logoColor=white" height="25">
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAYCAYAAADgdz34AAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAABFwAAARcBVoDBkgAAABl0RVh0U29mdHdhcmUAd3d3Lmlua3NjYXBlLm9yZ5vuPBoAAAImSURBVEiJrdVLiM9RFAfwz/XII+/HEDJ5JAkLmjHRYGeyIVlQEuVRyoodC1mIhdgoG2WlFKVY2IhYTBQRyYJI3u8ayWM4FveOfpjMf8zcOt1fv773fDvnfO/3igj/E9hdCy4VcLdWSmkgnmNsRLT/C9un29nzWoIRGNwl8j9aMxdPcbUmfDeTL8OHEo29SoBd+F6SL8AkHMLyHhNgPQKv0YidaMPqHleAcfiIt5iOw/iEll5pUWlHYD8m4itO1draWmT6o+yTywz6oyGlNKCGszXP4BIelO9bpaKtvaYizMIbTENTqeREb82gw07mK/4j28SGCqZfIZ7Xgf8nATahFbdxAEPK/76ow8GStA5TsA5nS+s2VnN1anYppctoxhO8kiXaJvtPnSzdEbiJvRFxrpy7jm8R0fQrV2cEBdwiX6oxGIpBhexWiTsR8bmCb8BVHImI7bUQ1OMOTpb9WSEZixny4G9gB2biDK5hc0R87JKgkKzBWswplTzFfTyoRCu24XRE3PsrSQ3yPCYrqA4Jw9CA5h7JVH6MtqBdVkfI+o9K7OmK4LcWpZQWYp/smhci4mhKaarsR/UYjRd4iHsRcbec6yMLYmlE7P+tzX8QnMYqPMYVPML7SnyRvWi87E31ZZ+ECziOkR2y/YugkCzCYoysxChZqu9kqb6UH5422crbsQKzsbKjsk4JKkSz5Bs6BcPl4Q7DBHk+bwrZa1nCF3G+KlH4CekuUr+EeLO/AAAAAElFTkSuQmCC" height="25">
 <br>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="25">
 <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" height="25">
