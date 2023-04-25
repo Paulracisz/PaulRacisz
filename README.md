@@ -51,8 +51,8 @@ Contact me at: paulieracisz@gmail.com
  </p> -->
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=paulrfirefly&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=paulrfirefly&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Paulracisz&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Paulracisz&theme=tokyonight" />
 </p>
 
 <!--
