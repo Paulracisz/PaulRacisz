@@ -22,7 +22,7 @@ Contact me at: paulieracisz@gmail.com
 ### 🕸️ Portfolio Website
 Click on the link to go to my portfolio website: <br/>
 https://paulracisz.com
-![image](https://user-images.githubusercontent.com/54999693/234386054-7316e16c-0428-4172-aa70-105cb7441783.png)
+[![image](https://user-images.githubusercontent.com/54999693/234386054-7316e16c-0428-4172-aa70-105cb7441783.png)](https://paulracisz.com)
 ### 💻 My Tech Stack
 
 <p  align="center">
