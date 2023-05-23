@@ -53,11 +53,9 @@ https://paulracisz.com
     <img src="https://github-readme-stats.vercel.app/api?username=paulrfirefly&count_private=true&show_icons=true&theme=buefy" alt="paulrfirefly" width="420"/> 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulracisz&hide=jupyter%20notebook,html,css&langs_count=8&layout=compact&theme=buefy" alt="paulrfirefly" height="165" />
  </p> -->
+[![paulRacisz's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=paulRacisz&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![paulRacisz's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=paulRacisz&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
 
-<p align="center">
-[![PaulRacisz's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulRacisz)](https://github.com/anuraghazra/github-readme-stats)
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Paulracisz&theme=tokyonight" />
-</p>
 
 <!--
 
