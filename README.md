@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Paul Racisz</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=paulracisz" alt="paulracisz" /> </p>
 
 Hi there, I'm a front-end web developer based in Indiana with a passion for creating engaging and intuitive user experiences. I have extensive experience in JavaScript, HTML, CSS, React and Python, and I'm constantly looking for new and exciting ways to push the boundaries of what's possible on the web.
 
