@@ -55,10 +55,10 @@ https://paulracisz.com
     <img src="https://github-readme-stats.vercel.app/api?username=paulrfirefly&count_private=true&show_icons=true&theme=buefy" alt="paulrfirefly" width="420"/> 
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paulracisz&hide=jupyter%20notebook,html,css&langs_count=8&layout=compact&theme=buefy" alt="paulrfirefly" height="165" />
  </p> -->
- 
+ <p align="center">
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=paulRacisz&show_icons=true&theme=dark#gh-dark-mode-only" />
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Paulracisz&theme=dark" />
-
+</p>
 
 <!--
 
