@@ -10,9 +10,9 @@ When I'm not coding, you can usually find me exploring the great outdoors or cat
 Contact me at: paulieracisz@gmail.com
 
 ### :gift: Projects
-- 🎣<a href="https://paulracisz.github.io/Fishing-Game/" target="_blank">React Fishing Game</a>
-- <a href="https://paulracisz.github.io/sales-table/" target="_blank">Dynamically Sorted Sales Table</a>
-- <a href="https://paulracisz.gitlab.io/connect-four/" target="_blank">Connect-4 Style Web Game</a>
+- 🎣<a href="https://paulracisz.github.io/Fishing-Game/" target="_blank">React Fishing Game</a> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height="25">
+- <a href="https://paulracisz.github.io/sales-table/" target="_blank">Dynamically Sorted Sales Table</a> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" height="25">
+- <a href="https://paulracisz.gitlab.io/connect-four/" target="_blank">Connect-4 Style Web Game</a> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" height="25">
 
 ### 🕸️ Portfolio Website
 Click on the link to go to my portfolio website: <br/>
