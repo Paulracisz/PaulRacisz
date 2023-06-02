@@ -57,6 +57,6 @@ https://paulracisz.com
 
 ### ⭐ Statistics
  <p align="center">
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=paulRacisz&show_icons=true&theme=dark#gh-dark-mode-only" />
+<img width="48%" src="https://github-readme-stats-kappa-steel-77.vercel.app/api?username=paulRacisz&show_icons=true&theme=dark#gh-dark-mode-only" />
 <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Paulracisz&theme=dark" />
 </p>
