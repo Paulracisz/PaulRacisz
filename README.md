@@ -11,7 +11,7 @@ Contact me at: paulieracisz@gmail.com
 
 ### :gift: Projects
 - 🎣<a href="https://paulracisz.github.io/Fishing-Game/" target="_blank">React Fishing Game</a> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height="25">
-- <a href="https://core-christian.web.app/" target="_blank">Core Christian Living Blog</a> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/768px-Vue.js_Logo_2.svg.png?20170919082558" height="25">
+- <a href="https://core-christian.web.app/" target="_blank">Vue Core Christian Living Blog</a> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/768px-Vue.js_Logo_2.svg.png?20170919082558" height="25">
 - <a href="https://paulracisz.gitlab.io/connect-four/" target="_blank">Connect-4 Style Web Game</a> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" height="25">
 
 ### 🕸️ Portfolio Website
