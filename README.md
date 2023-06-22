@@ -52,7 +52,10 @@ https://paulracisz.com
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" height="25">
 <!--  Django -->
 <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" height="25">
-
+<br/>
+ 
+<!--  Angular.js -->
+<img src="https://img.shields.io/badge/Angular.js-de140e?style=for-the-badge&logo=angular&logoColor=white" height="25">
 </p>
 
 ### ⭐ Statistics
