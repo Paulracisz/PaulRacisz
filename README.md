@@ -10,8 +10,8 @@ When I'm not coding, you can usually find me exploring the great outdoors or cat
 Contact me at: paulieracisz@gmail.com
 
 ### :gift: Projects
-- 📝<a href="https://core-christian.web.app/" target="_blank">Vue Core Christian Living Blog</a> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/768px-Vue.js_Logo_2.svg.png?20170919082558" height="25"> (<a href="https://github.com/Paulracisz/Core-Christian-Living-Blog">Repo</a>)
-Christian Blog built in Vue, uses the Sanity.IO CMS. Features a comment section with DISQUS, Daily verses, article search functionality, sorting by article categories, and bible study resources. 
+- 📝<a href="https://core-christian.web.app/" target="_blank">Vue Core Christian Living Blog</a> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/768px-Vue.js_Logo_2.svg.png?20170919082558" height="25"> 
+Christian Blog built in Vue, uses the Sanity.IO CMS. Features a comment section with DISQUS, Daily verses, article search functionality, sorting by article categories, and bible study resources. (<a href="https://github.com/Paulracisz/Core-Christian-Living-Blog">Repo</a>) 
 - 🎣<a href="https://paulracisz.github.io/Fishing-Game/" target="_blank">React Fishing Game</a> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height="25">
 React fishing game, features catching fish, collecting coins, a shop to buy more powerful rods to catch better fish, different fishing locations, a gallery to view fish caught, and an aquarium to display the fish caught. (<a href="https://github.com/Paulracisz/Fishing-Game">Repo</a>)
 - <a href="https://paulracisz.gitlab.io/connect-four/" target="_blank">Connect-4 Style Web Game</a> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" height="25">
