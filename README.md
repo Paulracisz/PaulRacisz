@@ -61,19 +61,12 @@ https://paulracisz.com
 </p>
 
 ### ⭐ Statistics
- <p align="center">
-  <p width="48%" align="center" display="inline">
-   
-  [![GitHub Streak](https://streak-stats.demolab.com?user=paulRacisz&border=FFFFFF&background=0D1117&stroke=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF&excludeDaysLabel=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF)](https://git.io/streak-stats) 
-  </p>
+<div style="display: flex; justify-content: space-between;">
+  <img width="48%" src="https://streak-stats.demolab.com?user=paulRacisz&border=FFFFFF&background=0D1117&stroke=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF&excludeDaysLabel=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF" alt="GitHub Streak">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=paulRacisz&show_icons=true&text_color=FFFFFF&title_color=FFFFFF&icon_color=fb8c00&ring_color=fb8c00&theme=transparent" alt="GitHub Stats">
+</div>
 
-   <p width="48%" align="center" display="inline"> 
-    
-![Paul's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulRacisz&show_icons=true&text_color=FFFFFF&title_color=FFFFFF&icon_color=f6ff00&theme=transparent)
-      </p>
-<br/>
 <div align="center">
  
 ![trophy](https://github-profile-trophy.vercel.app/?username=paulRacisz&column=3&title=Stars,Followers,Commit,PR,Repo,Issue&no-frame=true&theme=darkhub)
 </div>
-</p>
