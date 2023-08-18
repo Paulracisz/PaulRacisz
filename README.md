@@ -62,18 +62,18 @@ https://paulracisz.com
 
 ### ⭐ Statistics
  <p align="center">
-  <div width="48%">
+  <p width="48%" align="center" display="inline">
    
   [![GitHub Streak](https://streak-stats.demolab.com?user=paulRacisz&border=FFFFFF&background=0D1117&stroke=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF&excludeDaysLabel=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF)](https://git.io/streak-stats) 
-  </div>
+  </p>
 
-   <div width="48%"> 
+   <p width="48%" align="center" display="inline"> 
     
 ![Paul's GitHub stats](https://github-readme-stats.vercel.app/api?username=paulRacisz&show_icons=true&text_color=FFFFFF&title_color=FFFFFF&icon_color=f6ff00&theme=transparent)
-      </div>
+      </p>
 <br/>
 <div align="center">
  
-![trophy](https://github-profile-trophy.vercel.app/?username=paulRacisz&column=3&title=Stars,Followers,Commit,PR,Repo,Issue&theme=darkhub)
+![trophy](https://github-profile-trophy.vercel.app/?username=paulRacisz&column=3&title=Stars,Followers,Commit,PR,Repo,Issue&no-frame=true&theme=darkhub)
 </div>
 </p>
