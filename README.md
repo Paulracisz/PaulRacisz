@@ -77,8 +77,9 @@ https://paulracisz.com
                 Faith Tabernacle Church that includes information about the
                 church's location, tithing information, prayer request form, and
                 principles that the church abides by.</p>
-                
-[![image](https://github.com/Paulracisz/PaulRacisz/assets/54999693/37718021-2060-40a4-a40d-63af2ced30fe)](https://cftabernacle.com/)
+
+https://cftabernacle.com                
+[![image](https://github.com/Paulracisz/PaulRacisz/assets/54999693/37718021-2060-40a4-a40d-63af2ced30fe)](https://cftabernacle.com)
 <br/>
 <br/>
 
@@ -91,7 +92,8 @@ https://paulracisz.com
                 distrubutions page and delete and re-install the files. I added
                 the ability to view any mods installed, and re-vamped the
                 styling of the app.</p>
-                
+
+https://github.com/travis-racisz/daggerfall-unity-launcher                
 [![image](https://github.com/Paulracisz/PaulRacisz/assets/54999693/90f4fb29-ecbe-4a03-8abd-c143cc4d05a6)](https://github.com/travis-racisz/daggerfall-unity-launcher)
 
 
