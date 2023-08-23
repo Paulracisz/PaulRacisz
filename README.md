@@ -70,3 +70,29 @@ https://paulracisz.com
  
 ![trophy](https://github-profile-trophy.vercel.app/?username=paulRacisz&column=3&title=Stars,Followers,Commit,PR,Repo,Issue&no-frame=true&theme=darkhub)
 </div>
+
+### ❤️ Volunteer Work
+<h2>Christian Faith Tabernacle Church Website</h2>
+<p>Created, deployed, and hosted a church website for Christian
+                Faith Tabernacle Church that includes information about the
+                church's location, tithing information, prayer request form, and
+                principles that the church abides by.</p>
+                
+[![image](https://github.com/Paulracisz/PaulRacisz/assets/54999693/37718021-2060-40a4-a40d-63af2ced30fe)](https://cftabernacle.com/)
+<br/>
+<br/>
+
+### ⚙️ Open Source Contributions
+<h2>Daggerfall Unity Updater</h2>
+<p>    An Electron App used for the Daggerfall Unity game, a
+                remastering of the 1994 Elder Scrolls RPG Game Daggerfall in the
+                Unity game engine. This launcher and updater app allows you to
+                update the Daggerfall Unity game without having to go to the
+                distrubutions page and delete and re-install the files. I added
+                the ability to view any mods installed, and re-vamped the
+                styling of the app.</p>
+                
+[![image](https://github.com/Paulracisz/PaulRacisz/assets/54999693/90f4fb29-ecbe-4a03-8abd-c143cc4d05a6)](https://github.com/travis-racisz/daggerfall-unity-launcher)
+
+
+
