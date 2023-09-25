@@ -14,7 +14,7 @@ Contact me at: paulieracisz@gmail.com
 Christian Blog built in Vue, uses the Sanity.IO CMS. Features a comment section with DISQUS, Daily verses, article search functionality, sorting by article categories, and bible study resources. (<a href="https://github.com/Paulracisz/Core-Christian-Living-Blog">Repo</a>) 
 - 🎣<a href="https://paulracisz.github.io/Fishing-Game/" target="_blank">React Fishing Game</a> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height="25">
 React fishing game, features catching fish, collecting coins, a shop to buy more powerful rods to catch better fish, different fishing locations, a gallery to view fish caught, and an aquarium to display the fish caught. (<a href="https://github.com/Paulracisz/Fishing-Game">Repo</a>)
-- <a href="https://heart-to-heart-baked-goods.web.app/" target="_blank">Heart to Heart Baked Goods Website</a> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" height="25"> A website created for informational display and advertising of the Heart to Heart Baked Goods business. A website built in React by scratch, and deployed using Google Firebase. 
+- <a href="https://heart-to-heart-baked-goods.web.app/" target="_blank">Heart to Heart Baked Goods Website</a> <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" height="25"> A website created for informational display and advertising of the Heart to Heart Baked Goods business. A website built in React by scratch, and deployed using Google Firebase. 
 
 ### 🕸️ Portfolio Website
 Click on the link to go to my portfolio website: <br/>
