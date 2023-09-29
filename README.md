@@ -24,6 +24,9 @@ https://paulracisz.com
 
 <p  align="center">
  <br>
+ <!--  React Native -->
+<img src="https://img.shields.io/badge/React-Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" height="25">
+ <br>
 <!--  Angular -->
 <img src="https://img.shields.io/badge/Angular-cc0000?style=for-the-badge&logo=angular&logoColor=white" height="25">
 <!--  React -->
