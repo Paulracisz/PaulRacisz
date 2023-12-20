@@ -74,6 +74,8 @@ https://paulracisz.com
 ![trophy](https://github-profile-trophy.vercel.app/?username=paulRacisz&column=3&title=Stars,Followers,Commit,PR,Repo,Issue&no-frame=true&theme=darkhub)
 </div>
 
+<!---
+Site is no longer up
 ### ❤️ Volunteer Work
 <h2>Christian Faith Tabernacle Church Website</h2>
 <p>Created, deployed, and hosted a church website for Christian
@@ -84,7 +86,9 @@ https://paulracisz.com
 https://cftabernacle.com                
 [![image](https://github.com/Paulracisz/PaulRacisz/assets/54999693/37718021-2060-40a4-a40d-63af2ced30fe)](https://cftabernacle.com)
 <br/>
+-->
 <br/>
+
 
 ### ⚙️ Open Source Contributions
 <h2>Daggerfall Unity Updater</h2>
