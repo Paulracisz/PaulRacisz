@@ -90,6 +90,8 @@ https://cftabernacle.com
 <br/>
 
 
+<!---
+Going to update with a better contribution
 ### ⚙️ Open Source Contributions
 <h2>Daggerfall Unity Updater</h2>
 <p>    An Electron App used for the Daggerfall Unity game, a
@@ -102,6 +104,6 @@ https://cftabernacle.com
 
 https://github.com/travis-racisz/daggerfall-unity-launcher                
 [![image](https://github.com/Paulracisz/PaulRacisz/assets/54999693/90f4fb29-ecbe-4a03-8abd-c143cc4d05a6)](https://github.com/travis-racisz/daggerfall-unity-launcher)
-
+-->
 
 
