@@ -6,7 +6,7 @@ I'm a passionate full-stack developer with a growing love for Linux desktops (cu
 I'm working on a **React Native Bible Reader App** focused on simplicity, clean UI/UX, and offline-first usability. It's a project straight from the heart, blending my love for faith and technology.
 
 ### 🛠️ What I Do
-For the past **{{experience}}** years, I've been a Software Developer at [Firefly Integrations](https://www.fireflyint.com/) in Middlebury, Indiana. I develop and maintain a robust mobile app that integrates with high-end luxury RV systems; think batteries, solar, tanks, HVAC, RGBs, lights, inverters, and more.
+For the past **4.21** years, I've been a Software Developer at [Firefly Integrations](https://www.fireflyint.com/) in Middlebury, Indiana. I develop and maintain a robust mobile app that integrates with high-end luxury RV systems; think batteries, solar, tanks, HVAC, RGBs, lights, inverters, and more.
 
 I specialize in:
 - ⚛️ **React.js** / React Native
