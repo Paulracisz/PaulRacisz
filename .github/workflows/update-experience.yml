@@ -1,0 +1,30 @@
+name: Update Experience Years
+
+on:
+  schedule:
+    - cron: "0 0 * * *" # Runs every day at midnight UTC
+  workflow_dispatch:
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Calculate Experience Duration
+        run: |
+          START_DATE="2021-05-05"
+          TODAY=$(date +%s)
+          START=$(date -d "$START_DATE" +%s)
+          DIFF_DAYS=$(( (TODAY - START) / 86400 ))
+          YEARS=$(echo "scale=2; $DIFF_DAYS / 365" | bc)
+          sed -i "s/{{experience}}/${YEARS}/" README.md
+
+      - name: Commit and Push Changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add README.md
+          git commit -m "📈 Update experience years to ${YEARS}" || echo "No changes to commit"
+          git push
