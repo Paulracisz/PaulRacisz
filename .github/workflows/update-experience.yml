@@ -30,7 +30,7 @@ jobs:
           echo "Rounded years of experience: ${YEARS}"
 
           # Use sed to replace any number between "For the past" and "years"
-          sed -i "s/For the past [0-9]\+\(\.[0-9]*\)\? years/For the past ${YEARS} years/" README.md
+          sed -i "s/For the past \*\*[0-9]\+\(\.[0-9]*\)\?\*\* years/For the past **${YEARS}** years/" README.md
 
       - name: Commit and Push Changes
         run: |
