@@ -27,8 +27,9 @@ jobs:
           TODAY=$(date +%s)
           START=$(date -d "$START_DATE" +%s)
           DIFF_DAYS=$(( (TODAY - START) / 86400 ))
-          YEARS=$(echo "$DIFF_DAYS / 365" | bc)  # Integer division
-          sed -i "s/{{experience}}/${YEARS}/" README.md
+          YEARS=$(( DIFF_DAYS / 365 ))  # pure integer division, rounds down
+          echo "Experience: ${YEARS} years"
+          sed -i "s/[0-9]\+ years/${YEARS} years/" README.md
 
       - name: Commit and Push Changes
         run: |
