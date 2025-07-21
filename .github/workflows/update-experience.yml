@@ -29,7 +29,8 @@ jobs:
           DIFF_DAYS=$(( (TODAY - START) / 86400 ))
           YEARS=$(( DIFF_DAYS / 365 ))  # pure integer division, rounds down
           echo "Experience: ${YEARS} years"
-          sed -i "s/[0-9]\+ years/${YEARS} years/" README.md
+          # Replace the {{experience}} placeholder
+          sed -i "s/{{experience}}/${YEARS}/g" README.md
 
       - name: Commit and Push Changes
         run: |
