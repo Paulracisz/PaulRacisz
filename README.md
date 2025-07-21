@@ -12,7 +12,7 @@ I specialize in:
 - <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/e00c5f38-ec4a-4f0c-985d-7a8e2a62a6b8" /> **React.js** / React Native
 - <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/286825ec-77bc-4598-b955-abbfd6f191f8" /> **AngularJS**
 - <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/2b69a8d4-dbe5-49ed-b2f6-de71ea1ac20f" /> **JavaScript** based frameworks
-- 💡 Custom UIs, real-time data integration, embedded systems, and hardware interfacing
+- 💡 Custom UIs, real-time data integration, embedded systems, and hardware interfacing (CAN protocol)
 
 ### 🧰 On My Workbench
 Lately, I’ve been diving into:
