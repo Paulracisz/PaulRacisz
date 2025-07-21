@@ -16,7 +16,8 @@ I specialize in:
 
 ### 🧰 On My Workbench
 Lately, I’ve been diving into:
-- 🖥️ Helping friends **build their own gaming PCs**.
-- 💻 Having fun with tiling window managers & customizing Linux-based setups with dotfiles for privacy, performance, and aesthetics.
+- 🖥️ Helping friends **build their own gaming PCs**. *pics coming soon!*
+- 💻 Having fun with tiling window managers & customizing Linux-based setups with dotfiles for privacy, performance, and aesthetics. (click here to check out my Hyprland configs!)
 - 🇪🇸 Estoy aprendido español con Duolingo. (I'm learning Spanish to help stay connected with my community!)
+![Duolingo Stats](https://duolingo-stats-card.vercel.app/api?username=PaulRacisz)
 
