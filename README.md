@@ -8,10 +8,14 @@ I'm working on a **React Native Bible Reader App** focused on simplicity, clean 
 ### 🛠️ What I Do
 For the past **4** years, I've been a Software Developer at [Firefly Integrations](https://www.fireflyint.com/) in Middlebury, Indiana. I develop and maintain a robust mobile app that integrates with high-end luxury RV systems; think batteries, solar, tanks, HVAC, RGBs, lights, inverters, and more.
 
+<img width="500" height="505" alt="image of a mobile app next to a touch screen with a display of RV system controls." src="https://github.com/user-attachments/assets/601b245b-9a27-4715-a0be-1b24cd35b319" />
+
+
+
 I specialize in:
-- <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/e00c5f38-ec4a-4f0c-985d-7a8e2a62a6b8" /> **React.js** / React Native
-- <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/286825ec-77bc-4598-b955-abbfd6f191f8" /> **AngularJS**
-- <img width="20" height="20" alt="image" src="https://github.com/user-attachments/assets/2b69a8d4-dbe5-49ed-b2f6-de71ea1ac20f" /> **JavaScript** based frameworks
+- <img width="20" height="20" alt="the react.JS logo" src="https://github.com/user-attachments/assets/e00c5f38-ec4a-4f0c-985d-7a8e2a62a6b8" /> **React.js** / React Native
+- <img width="20" height="20" alt="the angular.JS logo" src="https://github.com/user-attachments/assets/286825ec-77bc-4598-b955-abbfd6f191f8" /> **AngularJS**
+- <img width="20" height="20" alt="the JavaScript logo" src="https://github.com/user-attachments/assets/2b69a8d4-dbe5-49ed-b2f6-de71ea1ac20f" /> **JavaScript** based frameworks
 - 💡 Custom UIs, real-time data integration, embedded systems, and hardware interfacing (CAN protocol)
 
 ### 🧰 On My Workbench
