@@ -23,7 +23,7 @@ I specialize in:
 
 ### 🧰 On My Workbench
 Lately, I’ve been diving into:
-- ⚙️ Learning Angular version 21 by making a front-end that integrates with a Java backend!
+- ⚙️ Learning Angular version 21 by making a front-end website that integrates with a Java backend!
 - 💻 Exploring new technologies and learning more everyday!
 - <img width="20" height="20" alt="flag of spain" src="https://github.com/user-attachments/assets/88b7899b-72c7-4cfe-957b-d5ea3660e8f2" /> Estoy aprendido español con Duolingo. (I'm learning Spanish to help stay connected with my community!)
 
