@@ -21,12 +21,11 @@ I specialize in:
 - <img width="20" height="20" alt="the JavaScript logo" src="https://github.com/user-attachments/assets/2b69a8d4-dbe5-49ed-b2f6-de71ea1ac20f" /> **JavaScript** based frameworks
 - 💡 Custom UIs, real-time data integration, embedded systems, and hardware interfacing (CAN protocol)
 
+### 🕸️ Portfolio Website
+https://paulracisz.com
+
 ### 🧰 On My Workbench
 Lately, I’ve been diving into:
 - ⚙️ Learning Angular version 21 by making a front-end website that integrates with a Java backend!
 - 💻 Exploring new technologies and learning more everyday!
 - <img width="20" height="20" alt="flag of spain" src="https://github.com/user-attachments/assets/88b7899b-72c7-4cfe-957b-d5ea3660e8f2" /> Estoy aprendido español con Duolingo. (I'm learning Spanish to help stay connected with my community!)
-
-
-### 🕸️ Portfolio Website
-https://paulracisz.com
