@@ -1,6 +1,6 @@
 # 👋 Hey there! I'm Paul Racisz
 
-I'm a passionate full-stack developer with a growing love for Linux desktops (currently deep-diving into **Hyprland** on **Arch Linux** 🧠🐧), and a knack for building sleek, intuitive mobile and web experiences.
+I'm a passionate full-stack developer with a growing love for modern technologies, always exploring new ways to make better technology for a better tomorrow, and building sleek, intuitive mobile and web experiences.
 
 ### 📖 Currently Building
 
