@@ -6,7 +6,7 @@ I'm a passionate full-stack developer with a growing love for Linux desktops (cu
 
 Building a mock shoe store using Angular 21 for the front-end, and designing and implementing an API in Java for the backend. 
 
-I'm working on the finish touches to a [**React Native Bible Reader App**](https://github.com/Paulracisz/lucerna-bible-app) focused on simplicity, clean UI/UX, and offline-first usability. It's a project straight from the heart, blending my love for faith and technology. The project is now deployed at: https://lucerna-bible-app.vercel.app/ or you can see a live, embedded demo at my portfolio website: https://paulracisz.com/#lucerna
+I'm working on the finishing touches to a [**React Native Bible Reader App**](https://github.com/Paulracisz/lucerna-bible-app) focused on simplicity, clean UI/UX, and offline-first usability. It's a project straight from the heart, blending my love for faith and technology. The project is now deployed at: https://lucerna-bible-app.vercel.app/ or you can see a live, embedded demo at my portfolio website: https://paulracisz.com/#lucerna
 
 ### 🛠️ What I Do
 For the past **4** years, I've been a Software Developer at [Firefly Integrations](https://www.fireflyint.com/) in Middlebury, Indiana. I develop and maintain a robust mobile app that integrates with high-end luxury RV systems; think batteries, solar, tanks, HVAC, RGBs, lights, inverters, and more.
