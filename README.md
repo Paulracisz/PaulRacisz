@@ -27,4 +27,6 @@ Lately, I’ve been diving into:
 - 💻 Exploring new technologies and learning more everyday!
 - <img width="20" height="20" alt="flag of spain" src="https://github.com/user-attachments/assets/88b7899b-72c7-4cfe-957b-d5ea3660e8f2" /> Estoy aprendido español con Duolingo. (I'm learning Spanish to help stay connected with my community!)
 
-My Portfolio: https://paulracisz.com
+
+### 🕸️ Portfolio Website
+https://paulracisz.com
