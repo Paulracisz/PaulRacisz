@@ -9,7 +9,7 @@ I am building a mock shoe store using Angular 21 for the front-end, and designin
 I'm working on the finishing touches to a [**React Native Bible Reader App**](https://github.com/Paulracisz/lucerna-bible-app) focused on simplicity, clean UI/UX, and offline-first usability. It's a project straight from the heart, blending my love for faith and technology. The project is now deployed at: https://lucerna-bible-app.vercel.app/ or you can see a live, embedded demo at my portfolio website: https://paulracisz.com/#lucerna
 
 ### 🛠️ What I Do
-For the past **4** years, I've been a Software Developer at [Firefly Integrations](https://www.fireflyint.com/) in Middlebury, Indiana. I develop and maintain a robust mobile app that integrates with high-end luxury RV systems; think batteries, solar, tanks, HVAC, RGBs, lights, inverters, and more.
+For the past **5** years, I've been a Software Developer at [Firefly Integrations](https://www.fireflyint.com/) in Middlebury, Indiana. I develop and maintain a robust mobile app that integrates with high-end luxury RV systems; think batteries, solar, tanks, HVAC, RGBs, lights, inverters, and more.
 
 <img width="500" height="505" alt="image of a mobile app next to a touch screen with a display of RV system controls." src="https://github.com/user-attachments/assets/601b245b-9a27-4715-a0be-1b24cd35b319" />
 
