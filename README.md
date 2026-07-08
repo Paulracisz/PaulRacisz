@@ -11,7 +11,7 @@ I'm working on the finishing touches to a [**React Native Bible Reader App**](ht
 ### 🛠️ What I Do
 For the past **5** years, I've been a Software Developer at [Firefly Integrations](https://www.fireflyint.com/) in Middlebury, Indiana. I develop and maintain a robust mobile app that integrates with high-end luxury RV systems; think batteries, solar, tanks, HVAC, RGBs, lights, inverters, and more.
 
-<img width="500" height="505" alt="image of a mobile app next to a touch screen with a display of RV system controls." src="https://github.com/user-attachments/assets/601b245b-9a27-4715-a0be-1b24cd35b319" />
+<img width="500" height="" alt="image of a mobile app next to a touch screen with a display of RV system controls." src="https://github.com/user-attachments/assets/601b245b-9a27-4715-a0be-1b24cd35b319" />
 
 
 
