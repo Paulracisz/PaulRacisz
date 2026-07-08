@@ -4,7 +4,7 @@ I'm a passionate full-stack developer with a growing love for modern technologie
 
 ### 📖 Currently Building
 
-I am building a mock shoe store using Angular 21 for the front-end, and designing and implementing an API in Java for the backend. 
+I am building C# and SQL UI applications to learn more about that tech stack!
 
 I'm working on the finishing touches to a [**React Native Bible Reader App**](https://github.com/Paulracisz/lucerna-bible-app) focused on simplicity, clean UI/UX, and offline-first usability. It's a project straight from the heart, blending my love for faith and technology. The project is now deployed at: https://lucerna-bible-app.vercel.app/ or you can see a live, embedded demo at my portfolio website: https://paulracisz.com/#lucerna
 
